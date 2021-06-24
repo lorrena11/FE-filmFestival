@@ -1,0 +1,14 @@
+colors:
+#1D1B18 (almost black)
+#1C1915 (dark brown)
+#C97F46 (orange-ish)
+#D6AD60 (gold)
+#8d8d8a (gray)
+#F4EBD0 (cream white)
+
+#7C6454 (cacao)
+#805C44 (milk choco)
+#739699 (teal)
+
+darker gray text - #656565
+gray title - #3c3c3c
