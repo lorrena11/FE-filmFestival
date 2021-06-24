@@ -529,10 +529,6 @@ footer {
         width: 70%;
     }
 
-    /*.content-wrapper {*/
-    /*    justify-content: flex-start;*/
-    /*}*/
-
     .horizontal-pic:not(#list-cover):not(#about-cover) {
         min-width: 200px;
         flex: 1 1 200px;
